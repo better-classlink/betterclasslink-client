@@ -1,3 +1,4 @@
-# better-classlink.github.io
-This is the web version of better classlink!
-This will be updated to the newest stable build whenever it releases.
+##Better Classlink - Client Version
+-Same as the web version
+-Can be used locally
+-Fixes most major bugs
